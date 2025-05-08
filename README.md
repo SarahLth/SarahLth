@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Sarah 👋
 
 <!--
 **SarahLth/SarahLth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Adobe Illustrator** 
+- 👯 I’m looking to collaborate on on data entry jobs, digital content design, and educational projects
+- 📫 How to reach me: [**Instagram**](https://www.instagram.com/sarahavcnna/) or [**LinkedIn**](https://www.linkedin.com/in/sarah1717/)
+- 🎓 I'm a Physics graduate with a strong interest in design, teaching and digital content creation.
